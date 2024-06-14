@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
 function App() {
     return (
         <>
-            <GlobalStyle />
+            <GlobalStyle  />
             <TodoTemplate>
                 <TodoHead />
                 <TodoList />
